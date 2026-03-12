@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Olá 👋 Eu sou Pablo</h1>
 
-<!--
-**pabloaraujo2003/pabloaraujo2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Desenvolvedor | 🚀 Tecnologia | 🌐 Open Source
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+- 🔭 Trabalhando em projetos de tecnologia
+- 🌱 Aprendendo novas tecnologias todos os dias
+- 💡 Interessado em automação, desenvolvimento e inovação
+- ⚡ Sempre buscando evoluir como desenvolvedor
+
+---
+
+### 🚀 Tecnologias
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+### 🔗 Contato
+
+- 💼 LinkedIn: coloque seu link
+- 🌎 Portfólio: coloque seu site
+- 📧 Email: seu@email.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
