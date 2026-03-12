@@ -37,8 +37,6 @@
 
 ### 🔗 Contato
 
-- 💼 LinkedIn: coloque seu link
-- 🌎 Portfólio: coloque seu site
 - 📧 Email: pablovitoraraujoazevedo@gmail.com
 
 ---
