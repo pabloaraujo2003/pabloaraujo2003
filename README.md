@@ -45,4 +45,4 @@
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pabloaraujo2003/pabloaraujo2003/blob/output/github-contribution-grid-snake.svg)
