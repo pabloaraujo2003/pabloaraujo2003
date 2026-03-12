@@ -42,3 +42,7 @@
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
+## 🐍 Contributions
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPO/blob/output/github-contribution-grid-snake.svg)
