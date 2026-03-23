@@ -41,8 +41,3 @@
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
-
-## 🐍 Contribuições
-
-![snake gif](https://github.com/pabloaraujo2003/pabloaraujo2003/blob/output/github-contribution-grid-snake.svg)
