@@ -1,22 +1,22 @@
-<h1 align="center">Building Scalable Web Applications</h1>
+<h1 align="center">Building Scalable Web Applications with AI</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • JavaScript Enthusiast • Web Developer</strong>
+  <strong>Full Stack Developer • AI Enthusiast • JavaScript Specialist</strong>
 </p>
 
 <p align="center">
-  I build modern, scalable and efficient web applications using JavaScript technologies.
+  I build intelligent, scalable and modern web applications using JavaScript technologies and Artificial Intelligence.
 </p>
 
 <p align="center">
   <!-- <a href="SEU_LINK_PORTFOLIO">🌐 Portfolio</a> •
   <a href="SEU_LINK_LINKEDIN">💼 LinkedIn</a> • -->
-  <a href="pablovitoraraujoazevedo@gmail.com">📧 Email</a>
+  <a href="mailto:pablovitoraraujoazevedo@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -27,6 +27,18 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+---
+
+# 🤖 AI & Automation
+
 <p align="center">
-  <em>"The best way to predict the future is to build it."</em>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6B00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <em>"Building the future with code and Artificial Intelligence."</em>
 </p>
