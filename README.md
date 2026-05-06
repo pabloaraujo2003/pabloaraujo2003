@@ -1,41 +1,32 @@
-<h1 align="center">Pablo Araújo</h1>
+<h1 align="center">Building Scalable Web Applications</h1>
 
 <p align="center">
-💻 Desenvolvedor | 🚀 Tecnologia | 🌐 Open Source
+  <strong>Full Stack Developer • JavaScript Enthusiast • Web Developer</strong>
 </p>
-
----
-
-### 👨‍💻 Sobre mim
-
-- 🔭 Trabalhando em projetos de tecnologia
-- 🌱 Aprendendo novas tecnologias todos os dias
-- 💡 Interessado em automação, desenvolvimento e inovação
-- ⚡ Sempre buscando evoluir como desenvolvedor
-
----
-
-### 🚀 Tecnologias
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react">
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloaraujo2003&layout=compact&theme=tokyonight">
+  I build modern, scalable and efficient web applications using JavaScript technologies.
+</p>
+
+<p align="center">
+  <!-- <a href="SEU_LINK_PORTFOLIO">🌐 Portfolio</a> •
+  <a href="SEU_LINK_LINKEDIN">💼 LinkedIn</a> • -->
+  <a href="pablovitoraraujoazevedo@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-### 🔗 Contato
+## 🛠 Tech Stack
 
-- 📧 Email: pablovitoraraujoazevedo@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
----
-
+<p align="center">
+  <em>"The best way to predict the future is to build it."</em>
+</p>
