@@ -34,8 +34,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-FF6B00?style=for-the-badge" />
 </p>
 
